@@ -1,0 +1,2 @@
+# wpstaging
+Wordpress Staging Site
